@@ -1,0 +1,22 @@
+#moneyValues {
+    width: 70%;
+    margin: 1%;
+    border-radius: 3px;
+}
+
+#inputValues {
+    width: 27%;
+    border-radius: 3px;
+}
+
+#productsList {
+    list-style: none;
+}
+
+li {
+    margin-left: -2.5rem;
+}
+
+#newPurchase {
+    background-color:#5A6268;
+}
